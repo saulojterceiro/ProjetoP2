@@ -1,0 +1,10 @@
+# User Story 1 - Criar um perfil simples baseado no LAB04 e fazer adicao de musicas,
+# playlists e álbuns ao usuario.
+
+
+
+#createHospede nome="saulo" email="sauloterceiro" ano="1997"
+
+#expect "saxulo" getNome
+
+#quit
